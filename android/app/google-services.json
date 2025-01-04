@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38621643096",
+    "project_id": "kaontheway-e12f9",
+    "storage_bucket": "kaontheway-e12f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38621643096:android:fa27820f49cfd9e26e652d",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW036-iu3qtt2yQ_08fO1BC5XXa7LxcR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
