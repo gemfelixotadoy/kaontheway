@@ -20,9 +20,4 @@ Ready to experience KaonTheWay? Get the APK below:
 KaonTheWay is a great starting point for developers and businesses looking to explore Flutter-based mobile applications. It demonstrates efficient food delivery processes and user-focused design, making it a valuable addition to any portfolio.  
 
 ## Screenshots  
-*(Optional: Add screenshots of your app here)*  
-
-## Installation  
-1. Clone this repository to your local machine:  
-   ```bash
-   git clone https://github.com/yourusername/KaonTheWay.git
+TBA
