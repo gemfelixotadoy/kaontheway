@@ -6,8 +6,8 @@
 
 ## Download the App  
 Ready to experience KaonTheWay? Get the APK below:  
-- [Download KaonTheWay v1.0 APK](#)  
-- [Download KaonTheWay Beta APK](#) *(optional beta link if available)*  
+- [Download KaonTheWay v1.0 APK](https://github.com/gemfelixotadoy/kaontheway/releases/download/v1.0.0/app-release.apk)  
+- [Download KaonTheWay Beta APK](https://github.com/gemfelixotadoy/kaontheway/releases/download/v1.0.0/app-release.apk) 
 
 ---
 
